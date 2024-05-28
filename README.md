@@ -1,5 +1,8 @@
-## Hi there 👋
+## \:3
 
+
+current projects:
+ - minecraft block regen mod (for skyblock modpack)
 <!--
 **kendal-codeferret/kendal-codeferret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
