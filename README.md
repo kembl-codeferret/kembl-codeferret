@@ -2,8 +2,8 @@
 
 
 current projects:
- - minecraft block regen mod (for skyblock modpack)
- - rock judging gui for Rock of the Year contest (discord invite soon?)
+ - minecraft better endgame armor mod
+ - rock judging gui for Rock of the Year contest https://discord.gg/3QMDDrtJy6
  - qbot :(
 <!--
 **kendal-codeferret/kendal-codeferret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
